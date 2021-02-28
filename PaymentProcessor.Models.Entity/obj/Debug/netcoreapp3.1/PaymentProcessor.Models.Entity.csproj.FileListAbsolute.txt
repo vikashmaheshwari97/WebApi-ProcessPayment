@@ -1,0 +1,11 @@
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.deps.json
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.runtimeconfig.json
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.runtimeconfig.dev.json
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.dll
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\bin\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.pdb
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.AssemblyInfoInputs.cache
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.AssemblyInfo.cs
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.dll
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.pdb
+C:\Users\Vikash Maheshwari\Desktop\dotnetcore-payment-processor-master\PaymentProcessor.Models.Entity\obj\Debug\netcoreapp3.1\PaymentProcessor.Models.Entity.genruntimeconfig.cache
